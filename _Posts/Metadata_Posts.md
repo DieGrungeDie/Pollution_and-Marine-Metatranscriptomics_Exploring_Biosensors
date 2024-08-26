@@ -1,1 +1,1 @@
-This folder contains posts relevant to the project 
+This folder contains a subfolder with Github posts created in the Research Methods course in 2024. The file 2024-06-20 contains the experimental design and method for the "RNALater Experiment"
